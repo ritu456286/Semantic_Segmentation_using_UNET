@@ -1,4 +1,4 @@
-# Nucleus Detection with U-Net
+# Semantic Segmentation using with U-Net
 
 ## Overview
 
