@@ -12,6 +12,11 @@ The Jupyter Notebook in this repository provides a detailed implementation of U-
 
 - `Semantic_Segmentation_using_UNET.ipynb`: The Jupyter Notebook containing the implementation of U-Net for nucleus detection.
 
+## Basic Overview
+- Kaggle platform - used for free GPU
+- U-net for semantic segmentation
+- Dataset - 2018 Data Science Bowl(kaggle)
+
 ## Getting Started
 
 ### Prerequisites
